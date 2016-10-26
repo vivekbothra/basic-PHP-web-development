@@ -1,0 +1,18 @@
+How to use?
+
+1 . Open you mysql client (phpmyadmin) and import 'dbs.sql'.
+2 . Open mysql.conf.php and insert appropriate values for constants
+    DB_HOST     (mysql server address)
+    DB_UNAME    (user name for mysql)
+    DB_PWD      (password for mysql)
+    
+    -- These Constant values shouldn't be changed
+    DB_NAME
+    
+3 . Open index.php and try out the example.
+
+
+Tested on 
+..firefox 3.6
+..IE 7
+..Google Chrome.
