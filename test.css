@@ -1,0 +1,17 @@
+header{
+	background-color: black;
+	text-align: center;
+	font-size: 20px;
+	color:white;
+
+}
+
+div{
+	background-color: grey;
+}
+.green{
+	border-color: green;
+}
+.red{
+	border-color: red;
+}
